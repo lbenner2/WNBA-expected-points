@@ -1,5 +1,5 @@
 # WNBA-expected-points
-These repository evaluates the expected points that each team generates and concedes in a WNBA game.
+This repository evaluates the expected points that each team generates and concedes in a WNBA game.
 
 The first notebook titled 'df_editor_dtwom_FINAL.ipynb' organizes each WNBA players' shooting efficiency from different regions of the floor. This will be used to calculate and expected point value for each shot attempt based on who attempts the field goal and where they shoot it.
 
